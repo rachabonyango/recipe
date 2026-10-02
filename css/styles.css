@@ -1,0 +1,39 @@
+body {
+padding:130px;
+}
+h2{
+ color:red;
+ text-shadow: 3px +2px 5px black;
+ }
+ h1{
+ color:purple;
+ font-size:40px;
+ }
+ ul li{
+ list-style-type:none;
+ }
+ .boder1{
+ border-left:3px black solid;
+ height:20px;
+ padding:5px;
+ }
+ .boder1{
+ border-left:3px black solid;
+ height:20px;
+ padding:5px;
+ }
+#img {
+border: 3px double maroon;
+border-radius: 50%;
+}
+.title {
+border-bottom: 3px solid grey;
+width: 150px;
+}
+.smaller{
+color:red;
+}
+.rcp{
+padding-left:40px;
+}
+
